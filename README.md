@@ -1,18 +1,63 @@
-💡 Struggling to revise core MERN concepts before interviews?  
-Or want to refresh your fundamentals in a structured, fast-paced way?  
+# ⚡ Web Development Refresher Sessions – Marathon Style
 
-I’m conducting **Web Development Refresher Sessions** – a marathon-style 4-hour class where we revise the **entire MERN stack in Hybrid mode**:
+💡 Struggling to revise **core MERN concepts** before interviews?  
+Or want to refresh your fundamentals in a **structured, fast-paced way**?  
 
-✅ JavaScript (Core + Advanced: closures, async, promises, OOP)  
-✅ React.js (Hooks, Router, State management)  
-✅ Node.js (modules, event-driven, APIs)  
-✅ Express.js (REST APIs, middleware, authentication)  
-✅ MongoDB (CRUD, schema design, Mongoose)  
+We are conducting **Web Development Refresher Sessions** – a **3–4 hour marathon class** designed to revise the **entire MERN stack** in **Hybrid Mode** 🚀  
 
-👉 Designed for students, freshers & working professionals preparing for **interviews, hackathons, and real-world projects**.  
+---
 
-🎯 Format: Hands-on coding + practical explanations + interview Q&A  
-📌 Duration: 3 -4 hours per session
-📌 Mode: Live, online  
+## 📚 What’s Covered?
+### ✅ JavaScript (Core + Advanced)
+- Closures, Scope, Hoisting  
+- Async, Promises, Async/Await  
+- OOP in JS (Prototypes, Inheritance, `this`)  
 
-If you want to **refresh concepts in minimum time with maximum clarity**, this is for you. 
+### ✅ React.js
+- Hooks (useState, useEffect, useContext, custom hooks)  
+- React Router (navigation, params)  
+- State Management (Context API, Redux basics)  
+
+### ✅ Node.js
+- Modules & NPM  
+- Event-driven architecture  
+- APIs with built-in modules  
+
+### ✅ Express.js
+- REST APIs (CRUD)  
+- Middleware (built-in, custom, third-party)  
+- Authentication (JWT, sessions)  
+
+### ✅ MongoDB
+- CRUD Operations  
+- Schema Design & Validation  
+- Mongoose ODM  
+
+---
+
+## 🎯 Who Should Join?
+- 🧑‍🎓 **Students** preparing for placements  
+- 👩‍💻 **Freshers** looking to revise fundamentals  
+- 🧑‍🏭 **Working professionals** preparing for interviews, hackathons & projects  
+
+---
+
+## 🧑‍🏫 Format
+- Hands-on **coding sessions** 💻  
+- **Practical explanations** with real-world use cases  
+- **Interview-focused Q&A** 🎤  
+- Hybrid Mode → Live + Online  
+
+---
+
+## 🕒 Duration
+- **3–4 Hours per session**  
+
+---
+
+## 🚀 Why Join?
+- Revise **MERN stack in minimum time** with maximum clarity  
+- Stay **interview-ready & project-ready**  
+- Learn **best practices** with practical examples  
+- Get a **structured revision roadmap**  
+
