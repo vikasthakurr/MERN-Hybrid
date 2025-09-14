@@ -13,10 +13,6 @@
 //   .then((result) => {
 //     console.log(result);
 //   })
-
-// const { rejects } = require("assert");
-// const { resolve } = require("dns");
-
 //   .catch((error) => {
 //     console.log(error);
 //   })
@@ -25,7 +21,7 @@
 //   });
 
 // fetch("https://jsonplaceholder.typicode.com/todos/1")
-//   // console.log(fetch)
+  // console.log(fetch)
 //   .then((response) => response.json())
 //   .then((json) => console.log(json))
 //   .catch((error) => console.log(error));
@@ -144,7 +140,7 @@
 //     console.log(this.name, salary, company);
 //   },
 // };
-// // person.getName();
+// person.getName();
 
 // const person2 = {
 //   name: "manish2",
@@ -251,5 +247,5 @@
 
 // const account = new BankAccount();
 // account.deposit(100);
-// // console.log(account.checkBalance());
+// console.log(account.checkBalance());
 // console.log(account.#balance);
