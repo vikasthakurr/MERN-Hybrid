@@ -152,6 +152,7 @@ class Person {
   print() {
     console.log(this.name, this.age);
   }
+ 
 }
 const per = new Person("vikas", 25);
 per.print();

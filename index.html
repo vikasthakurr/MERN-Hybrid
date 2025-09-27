@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Elements</title>
+    <!-- The defer attribute tells the browser not to wait for the script. 
+         Instead, the browser will continue to process the HTML, build the DOM. 
+         The script loads in the background, and then runs when the DOM is fully built. -->
+    <!-- <script defer src="Javascript-refresher-1.js"></script> -->
+  </head>
+  <body>
+    <!-- Heading Tags: h1 is the most important, h6 is the least. -->
+    <!-- <h1>this is heading-1</h1>
+    <h2>this is heading-2</h2>
+    <h3>this is heading-3</h3>
+    <h4>this is heading-4</h4>
+    <h5>this is heading-5</h5>
+    <h6>this is heading-6</h6> -->
+
+    <hr />
+
+    <!-- Paragraph and Preformatted Text Tags: <p> for paragraphs, <pre> to preserve whitespace. -->
+    <p>
+      to, vikas kumar, 123456, address:abc,India
+    </p>
+
+    <pre>
+        to,
+        vikas kumar,
+        123456,
+        address:abc,India
+    </pre>
+
+    <hr />
+
+    <!-- Multimedia Tags: For images, videos, and audio. -->
+    <!-- Note: Using a placeholder image service here. -->
+    <img
+      src="https://placehold.co/600x400"
+      alt="this is an image of person"
+      width="300px"
+    />
+
+    <!-- Note: The autoplay attribute may not work in all browsers without 'muted'. -->
+    <video
+      src="https://videos.pexels.com/video-files/3209828/3209828-sd_640_360_30fps.mp4"
+      width="250px"
+      controls
+      loop
+      muted
+      autoplay
+    ></video>
+
+    <audio src="file.mp3" controls></audio>
+
+    <!-- The <source> tag allows you to specify alternative video/audio files which the browser may choose from. -->
+    <video controls width="250px">
+      <source src="movie.mp4" type="video/mp4" />
+      <source src="movie.ogg" type="video/ogg" />
+      Your browser does not support the video tag.
+    </video>
+
+    <hr />
+
+    <!-- Inline and Block Level Elements: Block elements start on a new line, inline elements do not. -->
+    <span>this is span1</span>
+    <span>this is span2</span>
+
+    <div>this is a div</div>
+    <div>this is another div</div>
+
+    <hr />
+
+    <!-- Formatting Tags: For styling text. -->
+    <b>this is bold</b>
+    <br />
+    <strong>this is strong (semantically bold)</strong>
+    <br />
+    <i>this is italic</i>
+    <br />
+    <em>this is emphasized (semantically italic)</em>
+    <br />
+    <del>this is deleted</del>
+    <br />
+    <mark>this is mark</mark>
+    <br />
+    <s>this is strike</s>
+
+    <hr />
+
+    <!-- Form and Input Tags: For user input. -->
+    <form action="#" method="post">
+      <!-- Text input -->
+      <input type="text" name="name" id="" placeholder="enter your name" required />
+      <br />
+
+      <!-- Email input with validation -->
+      <input type="email" name="email" id="" placeholder="enter email" />
+      <br />
+
+      <!-- Other input types -->
+      <input type="color" name="color" id="" />
+      <input type="date" name="date" id="" />
+      <input type="file" name="file" id="" />
+      <br />
+
+      <!-- Dropdown select -->
+      <select name="city" id="">
+        <option value="delhi">Delhi</option>
+        <option value="mumbai">Mumbai</option>
+      </select>
+      <br />
+
+      <!-- Text area -->
+      <textarea name="feedback" id="" placeholder="Your feedback..."></textarea>
+      <br />
+
+      <!-- Submit button -->
+      <input type="submit" value="submit" />
+    </form>
+
+    <hr />
+
+    <!-- List Tags: For ordered, unordered, and definition lists. -->
+    <!-- Unordered List -->
+    <ul type="disc">
+      <li>item-1</li>
+      <li>item-2</li>
+      <li>item-3</li>
+    </ul>
+
+    <!-- Ordered List -->
+    <ol type="i">
+      <li>item-1</li>
+      <li>item-2</li>
+      <li>item-3</li>
+    </ol>
+
+    <!-- Definition List -->
+    <dl>
+      <dt>this is item-1</dt>
+      <dd>this is desc of item-1</dd>
+
+      <dt>item-2</dt>
+      <dd>desc of item 2</dd>
+    </dl>
+  </body>
+</html>
