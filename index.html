@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Document</title>
+  </head>
+
+  <body>
+    <button id="clickme">click me</button>
+
+    <button id="dontclickme">don't click me</button>
+
+    <p id="result"></p>
+
+    <p id="dontclickmeresult"></p>
+
+    <script>
+      let clickme = document.getElementById("clickme");
+
+      let dontclickme = document.getElementById("dontclickme");
+
+      let result = document.getElementById("result");
+
+      let dontclickmeresult = document.getElementById("dontclickmeresult");
+
+      clickme.addEventListener("click", () => {
+        result.innerHTML = "please wait...";
+        logic.postMessage("please start");
+      });
+      let logic = new Worker("logic.js");
+      logic.onMessage = (e) => {
+        result.innerHTML = e.data;
+      };
+
+      dontclickme.addEventListener("click", () => {
+        dontclickmeresult.innerHTML = "you press don't click me button";
+      });
+    </script>
+  </body>
+</html>
