@@ -625,65 +625,12 @@
 //   );
 // };
 // export default App;
+import React from 'react'
 
-// React.memo
+const App = () => {
+  return (
+    <div>App</div>
+  )
+}
 
-// useMemo & useCallback
-
-// Code Splitting (React.lazy & Suspense)
-
-// Virtualization (react-window / react-virtualized)
-
-// Testing in React
-
-// Jest
-
-// React Testing Library
-
-// Snapshot Testing
-
-// Mocking API Calls
-
-// End-to-End (E2E) Testing (Cypress / Playwright)
-
-// Styling in React
-
-// CSS Modules
-
-// Styled Components
-
-// Emotion
-
-// Tailwind CSS
-
-// Scalable Styling Best Practices
-
-// Server-Side Rendering & Frameworks
-
-// SSR vs CSR vs SSG vs ISR
-
-// Next.js
-
-// Remix
-
-// Gatsby
-
-// Advanced State Management
-
-// Redux Toolkit Query (RTK Query)
-
-// Apollo Client (GraphQL)
-
-// React Query / TanStack Query
-
-// Comparison: Redux vs React Query vs Zustand
-
-// React with TypeScript
-
-// Props & State
-
-// Custom Hooks
-
-// Context API
-
-// Higher-Order Components
+export default App
