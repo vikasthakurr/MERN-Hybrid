@@ -1,5 +1,16 @@
 # ⚡ Web Development Refresher Sessions – Marathon Style
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square) 
+![GitHub stars](https://img.shields.io/github/stars/vikasthakurr/MERN-Hybrid?style=flat-square) 
+![GitHub forks](https://img.shields.io/github/forks/vikasthakurr/MERN-Hybrid?style=flat-square)
+
+
 💡 Struggling to revise **core MERN concepts** before interviews?  
 Or want to refresh your fundamentals in a **structured, fast-paced way**?  
 
@@ -60,4 +71,3 @@ We are conducting **Web Development Refresher Sessions** – a **3–4 hour mara
 - Stay **interview-ready & project-ready**  
 - Learn **best practices** with practical examples  
 - Get a **structured revision roadmap**  
-
