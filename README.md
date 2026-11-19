@@ -1,73 +1,63 @@
-# ⚡ Web Development Refresher Sessions – Marathon Style
+# MERN-Hybrid
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square) 
 ![GitHub stars](https://img.shields.io/github/stars/vikasthakurr/MERN-Hybrid?style=flat-square) 
 ![GitHub forks](https://img.shields.io/github/forks/vikasthakurr/MERN-Hybrid?style=flat-square)
 
+## Overview
 
-💡 Struggling to revise **core MERN concepts** before interviews?  
-Or want to refresh your fundamentals in a **structured, fast-paced way**?  
+Hybrid MERN training curriculum combining asynchronous fundamentals with live interactive React and Node.js labs.
 
-We are conducting **Web Development Refresher Sessions** – a **3–4 hour marathon class** designed to revise the **entire MERN stack** in **Hybrid Mode** 🚀  
+**Tags:** `#mern-stack` `#hybrid-learning` `#react` `#nodejs` `#education`
 
----
+## Key Highlights & Concepts
 
-## 📚 What’s Covered?
-### ✅ JavaScript (Core + Advanced)
-- Closures, Scope, Hoisting  
-- Async, Promises, Async/Await  
-- OOP in JS (Prototypes, Inheritance, `this`)  
+- **End-to-End Implementation:** Hands-on labs progressing from UI wireframing to database integration.
+- **Production Patterns:** Modular code organization, clean API endpoints, and scalable architectural conventions.
+- **Practical Problem Solving:** Real-world troubleshooting, state debugging, and responsive layout testing.
 
-### ✅ React.js
-- Hooks (useState, useEffect, useContext, custom hooks)  
-- React Router (navigation, params)  
-- State Management (Context API, Redux basics)  
+## Getting Started
 
-### ✅ Node.js
-- Modules & NPM  
-- Event-driven architecture  
-- APIs with built-in modules  
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v16+ or v18+ recommended)
+- Modern Web Browser (Chrome, Firefox, Safari)
+- Git installed on your system
 
-### ✅ Express.js
-- REST APIs (CRUD)  
-- Middleware (built-in, custom, third-party)  
-- Authentication (JWT, sessions)  
+### Installation
 
-### ✅ MongoDB
-- CRUD Operations  
-- Schema Design & Validation  
-- Mongoose ODM  
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/vikasthakurr/MERN-Hybrid.git
+   cd MERN-Hybrid
+   ```
+2. **Launch the project:**
+   Open `index.html` in your browser or serve using VS Code Live Server.
 
----
-
-## 🎯 Who Should Join?
-- 🧑‍🎓 **Students** preparing for placements  
-- 👩‍💻 **Freshers** looking to revise fundamentals  
-- 🧑‍🏭 **Working professionals** preparing for interviews, hackathons & projects  
-
----
-
-## 🧑‍🏫 Format
-- Hands-on **coding sessions** 💻  
-- **Practical explanations** with real-world use cases  
-- **Interview-focused Q&A** 🎤  
-- Hybrid Mode → Live + Online  
+## Repository Structure
+```text
+MERN-Hybrid/
+ .gitignore
+ HTML
+ Javascript-refreshers
+ README.md
+ ReactJS
+ index.html
+ logic.js
+ zustand
+```
 
 ---
 
-## 🕒 Duration
-- **3–4 Hours per session**  
+## Author
 
----
-
-## 🚀 Why Join?
-- Revise **MERN stack in minimum time** with maximum clarity  
-- Stay **interview-ready & project-ready**  
-- Learn **best practices** with practical examples  
-- Get a **structured revision roadmap**  
+**Vikas Thakur**  
+- **LinkedIn:** [@vikasthakurr](https://www.linkedin.com/in/vikasthakurr)  
+- **Twitter / X:** [@vikasthaakurr](https://twitter.com/vikasthaakurr)  
+- **GitHub:** [@vikasthakurr](https://github.com/vikasthakurr)
